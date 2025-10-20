@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Junior and am currently a first year at Northeastern University.
 
 <!--
 **juniorperezg/juniorperezg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
